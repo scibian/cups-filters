@@ -35,6 +35,7 @@ Build-Depends:
  libavahi-client-dev,
  libavahi-glib-dev,
  librsvg2-bin,
+ libldap2-dev,
 # Needed for tests
  fonts-dejavu-core
 Homepage: http://www.openprinting.org/
