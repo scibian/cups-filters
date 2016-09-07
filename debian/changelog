@@ -1,3 +1,9 @@
+cups-filters (1.0.61-5+deb8u3scibian1) jessie; urgency=low
+
+  * Add support for remote browsing of LDAP printers
+
+ -- Scibian Packaging Team <packaging@scibian.org>  Wed, 07 Sep 2016 16:54:48 +0200
+
 cups-filters (1.0.61-5+deb8u3) jessie-security; urgency=high
 
   * Backport upstream fixes to also consider the semicolon (';') as an illegal
